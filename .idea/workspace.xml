@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a96ee4-d646-48c8-bb02-7b6fdf0182f5" name="Changes" comment="println in single line" />
+    <list default="true" id="c3a96ee4-d646-48c8-bb02-7b6fdf0182f5" name="Changes" comment="Add calculator class" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +15,32 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="Calculator" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -44,6 +70,7 @@
       <workItem from="1681467828698" duration="694000" />
       <workItem from="1681469164407" duration="495000" />
       <workItem from="1681487062117" duration="852000" />
+      <workItem from="1681490168667" duration="325000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add sout for test">
       <created>1681469204955</created>
@@ -63,7 +90,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
       <updated>1681487255527</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎−۰۰۰۰۴" summary="Add calculator class">
+      <created>1681490452227</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
+      <updated>1681490452227</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +116,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add sout for test" />
     <MESSAGE value="println in single line" />
-    <option name="LAST_COMMIT_MESSAGE" value="println in single line" />
+    <MESSAGE value="Add calculator class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add calculator class" />
   </component>
 </project>
