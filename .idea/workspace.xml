@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3a96ee4-d646-48c8-bb02-7b6fdf0182f5" name="Changes" comment="Add calculator class" />
+    <list default="true" id="c3a96ee4-d646-48c8-bb02-7b6fdf0182f5" name="Changes" comment="Add calculator class">
+      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +72,7 @@
       <workItem from="1681467828698" duration="694000" />
       <workItem from="1681469164407" duration="495000" />
       <workItem from="1681487062117" duration="852000" />
-      <workItem from="1681490168667" duration="325000" />
+      <workItem from="1681490168667" duration="566000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add sout for test">
       <created>1681469204955</created>
@@ -96,7 +98,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
       <updated>1681490452227</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL‎−۰۰۰۰۵" summary="Add calculator class">
+      <created>1681490537620</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
+      <updated>1681490537620</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
