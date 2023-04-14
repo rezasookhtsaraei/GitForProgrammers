@@ -43,6 +43,7 @@
       <updated>1681467826775</updated>
       <workItem from="1681467828698" duration="694000" />
       <workItem from="1681469164407" duration="495000" />
+      <workItem from="1681487062117" duration="852000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add sout for test">
       <created>1681469204955</created>
@@ -56,7 +57,13 @@
       <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
       <updated>1681473822169</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎−۰۰۰۰۳" summary="println in single line">
+      <created>1681487255527</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1681487255527</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
