@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class GitForProgrammers {
+public class GitForProgrammers {
+    public static void main(String[] args) {
+        System.out.println("Welcome to git");
+        System.out.println("For Learning");
+    }
 }
