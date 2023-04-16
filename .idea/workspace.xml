@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c3a96ee4-d646-48c8-bb02-7b6fdf0182f5" name="Changes" comment="Adding Add method to Calculator Class">
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <workItem from="1681467828698" duration="694000" />
       <workItem from="1681469164407" duration="495000" />
       <workItem from="1681487062117" duration="852000" />
-      <workItem from="1681490168667" duration="733000" />
+      <workItem from="1681490168667" duration="1252000" />
     </task>
     <task id="LOCAL‎−۰۰۰۰۱" summary="add sout for test">
       <created>1681469204955</created>
